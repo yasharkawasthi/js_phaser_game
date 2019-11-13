@@ -1,0 +1,20 @@
+leader board scores screen
+add different sounds
+add home, info and exit screens---done
+add thank you and feedback option in exit screen---done
+user login form register form---done
+go to next level automatically---done
+add health and life at last to score---done
+and transfer that score(also health, life) to next level---done
+add background sound---done
+pick up gun then gets power to shoot---done
+shoot bullets by pressing some key and enemy dies, different enemy dies in different number of shots---done
+add fruits powerups which fills health and life---done
+checkpoint at middle of screen---done
+add health system---done
+different enemy decrease different amount of health---done
+make 1 enemy powerful which kills you in one touch---done
+life system 3 lives, after 3 lives game over---done
+bomb increase damage
+high score at end of game over
+respawn where you die
